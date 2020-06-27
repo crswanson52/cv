@@ -1,0 +1,52 @@
+/*************************TAG SELECTORS*************************/
+
+a {
+  color: #204051;
+}
+
+body {
+  background-color: #e7dfd5;
+}
+
+h1 {
+  color: #204051;
+  font-family: cursive;
+}
+
+h3 {
+  color: #3b6978;
+}
+
+hr {
+  border-color: #84a9ac;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 4%;
+}
+
+label {
+  color: #204051;
+}
+
+ol {
+  color: #204051;
+}
+
+p {
+  color: #204051;
+}
+
+table {
+  color: #204051;
+}
+
+ul {
+  color: #204051;
+}
+
+/*************************CLASS SELECTORS*************************/
+
+.namefont {
+  font-family: 'Dancing Script';
+}
